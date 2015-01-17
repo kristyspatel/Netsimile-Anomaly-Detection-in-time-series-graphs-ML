@@ -1,4 +1,7 @@
-(a) Software that needs to be installed (if any) with URL’s to download it from 
+Implementation of Netsimile algorithm to detect anomalous graphs in Time series graphs. 
+Link to paper: http://arxiv.org/pdf/1209.2684.pdf
+
+(a) Software that needs to be installed (if any) with URLâ€™s to download it from 
 and instructions on how to install them.
 
 Anaconda Python 2.7: http://continuum.io/downloads
