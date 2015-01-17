@@ -1,0 +1,2 @@
+Threshold: 21.8739027622
+Number of anomalies: 0

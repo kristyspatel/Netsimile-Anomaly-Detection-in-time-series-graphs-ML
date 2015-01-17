@@ -1,0 +1,3 @@
+Threshold: 6.29910716844
+Number of anomalies: 1
+19
